@@ -11,16 +11,15 @@ The main ideas are encapsulation, class hierarchy and inheritance, polymorphism,
 dynamic memory management, and templates. Additional topics include the Standard Template Library (containers and iterators), 
 class design diagrams, and exception handling.
 
+Machine Learning:
+This introductory course gives an overview of machine learning techniques used in data mining and pattern recognition applications. Topics include: foundations of 
+machine learning, including statistical and structural methods; feature discovery and selection; parametric and non-parametric classification; supervised and unsupervised learning; use of contextual evidence; clustering, recognition with strings; small sample-size problems and applications to large datasets.
+
+Numerical Analysis:
+Focuses on the theory and application of numerical techniques including error analysis. Also discusses solution of linear, nonlinear and differential equations, 
+interpolation, numerical integration, and curve fitting. Computer solutions are emphasized.
+
 Optimization:
 Optimization without calculus; geometric programming; convex sets and convex functions; review of linear algebra; linear programming 
 and the simplex method; convex programming; iterative barrier-function methods; iterative penalty-function methods; iterative least-squares algorithms;
 iterative methods with positivity constraints; calculus of variations; applications to signal processing, medical imaging, game theory.
-
-Numerical Analysis (not uploaded yet, class in progress):
-Focuses on the theory and application of numerical techniques including error analysis. Also discusses solution of linear, nonlinear and differential equations, 
-interpolation, numerical integration, and curve fitting. Computer solutions are emphasized.
-
-Machine Learning (class in progess):
-This introductory course gives an overview of machine learning techniques used in data mining and pattern recognition applications. Topics include: foundations of 
-machine learning, including statistical and structural methods; feature discovery and selection; parametric and non-parametric classification; supervised and unsupervised 
-learning; use of contextual evidence; clustering, recognition with strings; small sample-size problems and applications to large datasets.
