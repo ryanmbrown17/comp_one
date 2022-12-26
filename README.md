@@ -1,11 +1,14 @@
 # courses present
-Computting 2: 
+Applied Math I:
+Infinite Series, Complex Algebra, Ordinary Differential Equations, Special Functions, Fourier Series, Vector Spaces, Operators and Matrices.
+
+Computting II: 
 Computing II focuses on the implementation and applications of data structures, including arrays, 
 linked lists, stacks, queues, trees, binary trees, binary search trees, heaps, graphs, and hash tables. 
 Recursive approaches are used. Performance analysis is discussed. Attention is paid to programming style, documentation, and testing. 
 This course includes extensive laboratory work
 
-Computing 3 (not uploaded yet):
+Computing III:
 This course presents an introduction to object-oriented software development using the C++ programming language.
 The main ideas are encapsulation, class hierarchy and inheritance, polymorphism, copy control, operator overloading,
 dynamic memory management, and templates. Additional topics include the Standard Template Library (containers and iterators), 
