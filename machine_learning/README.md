@@ -1,1 +1,1 @@
-The first two assignments have been uploaded here.  3 more assignments will be uploaded over the course of the semester.
+5 Assignments and 1 final project have their code here!
